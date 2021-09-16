@@ -7,11 +7,13 @@
   <h4 align="center"><b><i>Informatics Engineering Student</i></b></h4>
 </p>
 
+<!-- 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/celinalopez" />
 </p>
 
 <p align="center">
+-->
 <br>
 
 <a href="https://www.linkedin.com/in/celina-lopez-8a6150200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
