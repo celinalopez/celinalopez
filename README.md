@@ -1,10 +1,10 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Celina Lopez👋</b></h1>
+  <h1 align="center"><b>Hello there👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b><i>Informatics Engineering Student</i></b></h4>
+  <h4 align="center"><b><i> </i></b></h4>
 </p>
 
 <!-- 
